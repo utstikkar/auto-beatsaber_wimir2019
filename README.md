@@ -1,7 +1,7 @@
 # Auto-BeatSaber: Generating New Content for VR Music Games
 This is the repository for the Auto-BeatSaber project run by Amélie Anglade and Ryan Groves at the WiMIR 2019 workshop.
 
-## Description of the workshop
+## Description of the project
 In this project we dive into a specific problem at the intersection of music, gaming, and dance: the generation of a BeatSaber song level. BeatSaber is one of the most popular VR titles, in which the core of the gameplay is to rhythmically slice incoming boxes with light sabers to the sound of the beat. The game has sparked a huge community of modders who create their own choreographies to existing songs, as well as MIR-based tools (such as a MIDI converter or a BPM estimator) designed specifically to support level creation. The main task of this project is: how could we use machine learning to generate these choreographies automatically? Participants will also have the opportunity to learn from our experience as Data Science & MIR consultants as we will share our own structured process for problem-solving in the music tech industry.
 
 ## About us
