@@ -13,11 +13,13 @@ Ryan Groves is an award-winning music researcher and veteran developer of intell
 
 [Beat Saber demo video](https://www.youtube.com/watch?v=gV1sw4lfwFw)
 
+[Beat Saber Mapping Community](https://bsmg.wiki/mapping)
+
 [Beat Saber Mapping Tutorial](https://bsaber.com/benny-custom-mapping/)
 
 [Beat Saber Map Data](https://drive.google.com/file/d/1E38y96FdLfA3rdPZl5qRK_Ho_EzyXiGz/view)
 
-[Beat Saber Mapping Community](https://bsmg.wiki/mapping)
+[Beat Saber Map Data format](https://docs.google.com/presentation/d/1dG-MlY4GkqcRKzf6fPkDtyFyce1BQVnDREXqnCZ3Us0/edit#slide=id.g55b4b4143f_22_0)
 
 [Lakh MIDI Dataset](https://colinraffel.com/projects/lmd/)
 
