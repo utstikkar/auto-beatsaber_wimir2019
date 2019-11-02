@@ -8,3 +8,14 @@ In this project we dive into a specific problem at the intersection of music, ga
 Dr. Amélie Anglade is a Music Information Retrieval and Data Science consultant. She completed her PhD at Queen Mary University of London, before moving to industry, initially taking on positions in R&D labs such as Sony CSL, Philips Research and CNRS, and then being employed as an MIR expert for Music Tech startups such as SoundCloud and frestyl. For the past 5 years she has further developed her expertise in music identification and discovery–assisting startups and larger companies in the AI and music or multimedia space as an independent consultant, researching, prototyping, and scaling up Machine Learning solutions for them. Additionally, Amélie is a contributor to the EU Commision as an independent technical expert in charge of reviewing proposals and ongoing EU projects. In her spare time she attends music hackathons (15+ so far), and is a teacher and mentor for women in the field of data science through multiple organizations.
 
 Ryan Groves is an award-winning music researcher and veteran developer of intelligent music systems. He received his Master’s in Music Technology from McGill University. In 2016, his work on computational music theory was awarded the Best Paper at ISMIR. He also has extensive experience in industry, building musical products that leverage machine learning. As the former Director of R&D for Zya, he developed a musical messenger app that automatically sings your texts, called Ditty. Ditty won the Best Music App of 2015 by the Appy Awards. More recently, he co-founded Melodrive, where he and his team built the first artificially intelligent composer that could compose music in realtime and react to interactive scenarios such as games and VR experiences. He now works as a consultant and startup advisor in Berlin, with a focus on expanding the use cases of music and audio through the application of AI.
+
+## Resources
+
+Beat Saber Mapping Community
+
+https://bsmg.wiki/mapping
+
+Lakh MIDI Dataset
+https://colinraffel.com/projects/lmd/
+
+
