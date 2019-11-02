@@ -11,11 +11,16 @@ Ryan Groves is an award-winning music researcher and veteran developer of intell
 
 ## Resources
 
+
+
 Beat Saber Mapping Community
 
 https://bsmg.wiki/mapping
 
 Lakh MIDI Dataset
+
 https://colinraffel.com/projects/lmd/
 
+Amélie and Ryan's structured process to Music AI problem solving in industry (presentation recorded at Wallifornia MusicTech 2019)
 
+https://youtu.be/nkJXLGi4mJ0
