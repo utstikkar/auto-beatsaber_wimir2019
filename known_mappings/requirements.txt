@@ -2,3 +2,7 @@ jupyter
 numpy
 scipy
 matplotlib
+pretty_midi
+librosa
+mir_eval
+tables
